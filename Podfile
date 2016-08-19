@@ -1,4 +1,4 @@
-platform :ios, '9.2'
+platform :ios, '9.3'
 use_frameworks!
 
 target 'ios-quickstart' do
